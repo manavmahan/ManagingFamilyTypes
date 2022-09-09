@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Clean Family Types</Text>
+    <Description>Deletes all family types except the last and purge</Description>
+    <Assembly>ManagingFamilyTypes.dll</Assembly>
+    <FullClassName>ManagingFamilyTypes.Command</FullClassName>
+    <ClientId>e9688add-80c3-4cd1-4f8e-6b2117c64627</ClientId>
+    <VendorId>contact@p-energyanalysis.de</VendorId>
+    <VendorDescription>Manav Mahan Singh, https://p-energyanalysis.de/manavmahan</VendorDescription>
+  </AddIn>
+</RevitAddIns>
